@@ -14,6 +14,9 @@ Using the plugin is relatively easy, you just need to follow the steps below:
 
 1. Download the plugin from the [latest release](https://github.com/steveiliop56/xaxis/releases/latest) and place it in the `Resources/plugins` directory. Make sure to keep the `xaxis` name in order for the plugin to be able to read the configuration.
 
+> [!NOTE]
+> The plugin is only published for x64 Linux. If you have a different OS, you will need to build the plugin yourself. Windows versions may be published in the future.
+
 2. Create an initial configuration file for XAxis, it should be located in `Resources/plugins/xaxis/config.txt` and contain the following:
 
 ```
