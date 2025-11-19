@@ -1,0 +1,8 @@
+# vscode useless settings
+.vscode/
+
+# build out
+build/
+
+# SDK
+SDK/
